@@ -25,3 +25,14 @@ investigate the relevant works in the multi-model area
 <i>Author</i>: Koichiro Ito, Takuya Fujioka, Qinghua Sun, and Kenji Nagamatsu<br>
 <i>Comments</i>: 在情感识别领域，作者认为有一些非情感的特征会影响情感识别的结果。于是提出了通过分离出只抽取情感识别特征和身份特征的方法，最终稍稍超过sota结果。
 </br>
+
+<i>Title</i>: <a href="https://slp-ntua.github.io/potam/preprints/conf/georgiou21_interspeech.pdf">M3: MultiModal Masking applied to sentiment analysis</a> (interspeech2021)<br>
+<i>Author</i>: Efthymios Georgiou1,2, Georgios Paraskevopoulos1,2, Alexandros Potamianos<br>
+<i>Comments</i>: 在情感识别领域，作者认为不同的模态贡献的效果不一样，于是提出了随机遮住一些模态，强制模型在缺失模态的情况下训练。本质上是一种学习策略。跟dropout有点像，最终在CMU-MOSEI稍稍超过sota结果。
+</br>
+
+
+
+
+
+
