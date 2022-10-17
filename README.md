@@ -14,3 +14,14 @@ investigate the relevant works in the multi-model area
 我觉得科研问题很直白，做了个复杂的模型。然后结果并不solid，指标的普适性也待考察。所以投short可以理解。
 </br>
 
+
+<b>2022-10-17</b><br>
+<i>Title</i>: <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/ito21_interspeech.pdf">Audio-Visual Speech Emotion Recognition by Disentangling Emotion and Identity Attributes</a> (interspeech2021)<br>
+<i>Author</i>: Koichiro Ito, Takuya Fujioka, Qinghua Sun, and Kenji Nagamatsu<br>
+<i>Comments</i>: 在情感识别领域，作者认为有一些非情感的特征会影响情感识别的结果。于是提出了通过分离出只抽取情感识别特征和身份特征的方法，最终稍稍超过sota结果。
+</br>
+
+<i>Title</i>: <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2021/ito21_interspeech.pdf">Audio-Visual Speech Emotion Recognition by Disentangling Emotion and Identity Attributes</a> (interspeech2021)<br>
+<i>Author</i>: Koichiro Ito, Takuya Fujioka, Qinghua Sun, and Kenji Nagamatsu<br>
+<i>Comments</i>: 在情感识别领域，作者认为有一些非情感的特征会影响情感识别的结果。于是提出了通过分离出只抽取情感识别特征和身份特征的方法，最终稍稍超过sota结果。
+</br>
